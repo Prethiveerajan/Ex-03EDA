@@ -105,5 +105,5 @@ sns.heatmap(df.corr(),annot=True)
 
 
 ## RESULT:
-Thus the EDA on the given data set is  sucessfully done.....
+Thus the EDA on the given data set is  successfully done.....
 
