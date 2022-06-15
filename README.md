@@ -34,7 +34,7 @@ Save the final data set into the file.
 import pandas as pd
 import numpy as np
 import seaborn as sns
-df=pd.read_csv("")
+df=pd.read_csv("titanic.csv")
 df.info()
 df.head()
 df.isnull().sum()
